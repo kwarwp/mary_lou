@@ -1,1 +1,4 @@
 # ana lucia
+from _spy.vittolino.main import Cena, Elemento, Texto 
+cenacachoeira = "https://www.portalmultiplix.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c495341f9a7cf20561f5eec7b0b847bc4ef0793/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MY21WemFYcGxTU0lKTVRBeU5BWTZCa1ZVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--225ee2b8fdfbf7a081fbd41b5290b3252f18a8c0/Cachoeira_dos_Frades_II.jpg"
+elementocrianca = ""
