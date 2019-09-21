@@ -1,2 +1,2 @@
 # Felipe
-from _spy.vittolino.main import cena, Elemento, Texto
+from _spy.vittolino.main import Cena, Elemento, Texto 
