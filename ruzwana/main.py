@@ -1,3 +1,3 @@
 # Laurenice
 from _spy.vittolino.main import Cena, Elemento, Texto
-cenaArvóre
+cenaArvore = "https://ogimg.infoglobo.com.br/in/19343704-906-99e/FT1086A/652/x2015_854741199-img_5130.jpg_20151002.jpg.pagespeed.ic.felWKzcrlc.jpg"
