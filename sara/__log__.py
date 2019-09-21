@@ -13,3 +13,7 @@ SyntaxError: invalid syntax
                                                                                                                                    ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Sat Sep 21 2019 12:08:45.327 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+NameError: <ReferenceError: Invalid left-hand side in assignment>
+'''},
