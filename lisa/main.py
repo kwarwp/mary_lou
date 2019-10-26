@@ -1,5 +1,5 @@
 # larissa
-from _spy.vittolino.main import cena, Elemento, Texto
+from _spy.vitollino.main import cena, Elemento, Texto
 cena9 = "https://i.imgur.com/LhZvA0Q.png"
 elemento = "encurtador.com.br/aegw0"
 
