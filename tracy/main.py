@@ -4,6 +4,6 @@ cena8= "https://i.imgur.com/MyY4aCR.png"
 elemento ="encurtado.com.br/aegw0"
 
 def Historia():
-	cenaHolmes=cena(img=cena8)
+	cenaHolmes = Cena(img = cena8)
 	cenaHolmes.vai()
 Historia()
