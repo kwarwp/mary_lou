@@ -1,5 +1,5 @@
 # Jane
-from _spy.vitolino.main import cena,elemento,texto
+from _spy.vitollino.main import cena,elemento,texto
 cena3 = "https://i.imgur.com/mgp4E0g.png"
 elemento ="encurtador.com.br/aegw0"
 
