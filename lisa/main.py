@@ -1,7 +1,7 @@
 # larissa
 from _spy.vittolino.main import cena, Elemento, Texto
 cena9 = "https://i.imgur.com/LhZvA0Q.png"
-elemento =
+elemento = "encurtador.com.br/aegw0"
 
 def Historia():
 	cenaHolmes = Cena( img = cena9)
