@@ -1,4 +1,9 @@
 # marcelo alves
-from _spy.vittolino.main import Cena, Elemento, Texto
-cenahotel = "https://www.ahstatic.com/photos/3227_ho_00_p_1024x768.jpg"
-elementopassaro = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91FWFESrb9vtbMzHLNzfeFSkyw9FdMpOMeexC71WS-VgZBp1F"
+from _spy.vitollino.main import Cena, Elemento, Texto
+cena8="https://i.imgur.com/MyY4aCR.png"
+elemento ="encurtado.com.br/aegw0"
+
+def Historia():
+	cenaHolmes=cena(img=cena8)
+	cenaHolmes.vai()
+Historia()
