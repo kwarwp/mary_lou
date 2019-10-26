@@ -1,7 +1,7 @@
 # cibele
-from _spy.vittolino.main import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 cena11 = "https://i.imgur.com/8vImpkP.png"
-elemento = 
+elemento = "encurtador.com.br/aegw0"
 
 def Historia():
 	cenaHolmes = Cena( img = cena11)
