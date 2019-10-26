@@ -5,5 +5,8 @@ elemento = "encurtador.com.br/aegw0"
 
 def Historia():
 	cenaHolmes = Cena( img = cena9)
-	cenaHolmes.vai()
+	elem = Elemento( img = elemento,
+                     tit="Story",  
+                     style=dict(left=150, top=50, width=60, hight=200))
+	cenaholmes.vai()
 Historia()
