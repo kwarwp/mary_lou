@@ -1,5 +1,5 @@
 #FABIANO
-from _spy.vittolino.main import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 cena11 ="https://i.imgur.com/oTxHoHk.png"
 elemento = "https://bit.ly/32y88MK"
 
