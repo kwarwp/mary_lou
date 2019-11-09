@@ -10,7 +10,7 @@ def Historia():
                      style=dict(left=150, top=60, width=60, hight=200))
 	elem.entra(cenaHolmes)
 	txtElem = Texto (cenaHolmes,
-            			"")
+            			"The porter who works for the Holmes family found the duck.")
 	elem.vai = txtElem.vai            
 	cenaHolmes.vai()
 Historia()
