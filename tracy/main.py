@@ -6,8 +6,8 @@ elemento ="https://bit.ly/32y88Mk"
 def Historia():
 	cenaHolmes = Cena(img = cena8)
 	elem = Elemento( img = elemento,
-                   tit="story",
-                   style=dict(left 
+                       tit="story",
+                       style=dict(left=150, top=60, width=120, hight=200)) 
 	elem.entra(cenaHolmes)
 	txtElem = Texto (cenaHolmes,
     			
