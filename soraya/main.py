@@ -11,5 +11,5 @@ def Historia():
 	elem.entra(cenaHolmes)
 	txtElem= Texto (cenaHolmes,
 			"The duchess is awaiting news of a possible pregnancy.")    
-            	cenaHolmes.vai()
+	cenaHolmes.vai()
 Historia()
