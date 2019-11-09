@@ -27,3 +27,10 @@ IndentationError: unexpected indent
         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Nov 09 2019 11:33:03.62 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  tit = "story", 
+  ^
+IndentationError: unexpected indent
+'''},
