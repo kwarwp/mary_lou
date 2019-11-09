@@ -7,7 +7,7 @@ def Historia():
 	cenaHolmes = Cena(img = cena11)
 	elem = Elemento (img = elemento,
                       tit="story", 
-                      style =dict(left=150, top=60, width=60, highit=200) 
+                      style =dict(left=150, top=60, width=120, hight=200) 
 	elem.entra(cenaHolmes)
 	txtElem = Texto (cenaHolmes,
     			 "Mr. Watson, best friend and companion in the adventures of Sherlok Homes.")
