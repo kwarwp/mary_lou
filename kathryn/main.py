@@ -11,6 +11,6 @@ def Historia():
 	elem.entra(cenaHolmes)
 	txtElem = Texto (cenaHolmes,
     			 "Hello")
-       elem.vai = txtElem.vai          
+	elem.vai = txtElem.vai          
 	cenaHolmes.vai()
 Historia()
