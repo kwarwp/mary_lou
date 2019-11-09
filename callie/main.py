@@ -7,10 +7,10 @@ def Historia():
 	cenaHolmes = Cena( img = cena7)
 	elem = Elemento (img = elemento, 
                       tit="story",
-                      style=dict(left=150, top=60, width=60, hight=200))
+                      style=dict(left=150, top=60, width=120, hight=200))
 	elem.entra(cenaHolmes)
 	txtEleme = Texto (cenaHolmes,
-    			"")
+    			"He was on the street")
 	eleme.vai = txtElem.vai
 	cenaHolmes.vai()
 Historia()
