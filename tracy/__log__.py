@@ -35,3 +35,10 @@ NameError: name 'cena' is not defined
     	cenaHolmes=cena(img=cena8)
 NameError: name 'cena' is not defined
 '''},
+{'date': 'Sat Nov 09 2019 11:35:01.252 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  elem = Elemento( img = elemento,
+  ^
+IndentationError: unexpected indent
+'''},
