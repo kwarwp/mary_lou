@@ -24,3 +24,10 @@ SyntaxError: invalid syntax
     	cenaHolmes = Cena( img = cena11)
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Sat Nov 09 2019 11:08:40.411 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 14
+  elem.vai = txtElem.vai          
+  ^
+IndentationError: unexpected indent
+'''},
