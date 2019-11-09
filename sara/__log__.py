@@ -38,3 +38,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Sat Nov 09 2019 11:30:14.608 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 14
+  elem.vai = txtelem.vai            
+  ^
+IndentationError: unexpected indent
+'''},
