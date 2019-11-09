@@ -42,3 +42,10 @@ NameError: name 'cena' is not defined
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Sat Nov 09 2019 11:35:15.578 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  elem = Elemento( img = elemento,
+                                                                                                         ^
+SyntaxError: invalid syntax
+'''},
