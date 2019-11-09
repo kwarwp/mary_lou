@@ -10,6 +10,6 @@ def Historia():
                      style=dict(left=150, top=60, width=60, hight=200))
 	elem.entra(cenaHolmes)
 	txtElem= Texto (cenaHolmes,
-			"")    
-	cenaHolmes.vai()
+			"The duchess is awaiting news of a possible pregnancy.")    
+            	cenaHolmes.vai()
 Historia()
