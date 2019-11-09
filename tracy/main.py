@@ -10,7 +10,8 @@ def Historia():
                    style=dict(left 
 	elem.entra(cenaHolmes)
 	txtElem = Texto (cenaHolmes,
-    			 "")
+    			
+ "He broke the glass with his cane")
 	elem.vai = txtElem.vai
 	cenaHolmes.vai()
 Historia()
