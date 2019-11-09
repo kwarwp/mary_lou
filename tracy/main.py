@@ -5,7 +5,7 @@ elemento ="https://bit.ly/32y88Mk"
 
 def Historia():
 	cenaHolmes = Cena(img = cena8)
-    elem = Elemento( img = elemento,
+	elem = Elemento( img = elemento,
                    tit="story",
                    style=dict(left 
 	elem.entra(cenaHolmes)
