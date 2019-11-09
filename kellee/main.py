@@ -10,7 +10,7 @@ def Historia  ():
                      style=dict(left=150, top=60,width=60, hight=200))
 	elem.entra(cenaHolmes)
 	txtElem = Texto (cenaHolmes,
-				"I'm Sherlock Holmes I'm a detective who likes to follow clues and solve mysteries")
+				"I'm Sherlock Holmes. I'm a detective who likes to follow clues and solve mysteries")
 	elem.vai = txtElem.vai
 	cenaHolmes.vai ()
 Historia ()
