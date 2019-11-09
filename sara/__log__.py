@@ -17,3 +17,10 @@ SyntaxError: EOL while scanning string literal
 'error': '''
 NameError: <ReferenceError: Invalid left-hand side in assignment>
 '''},
+{'date': 'Sat Nov 09 2019 11:27:48.57 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  cena = 11 "https://i.imgur.com/oTxHoHk.png"
+             ^
+SyntaxError: invalid syntax
+'''},
