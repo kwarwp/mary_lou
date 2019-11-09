@@ -24,3 +24,10 @@ NameError: <ReferenceError: Invalid left-hand side in assignment>
              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Nov 09 2019 11:28:58.746 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 14
+  elem.vai = txtelem.vai            
+  ^
+IndentationError: unexpected indent
+'''},
