@@ -41,3 +41,10 @@ SyntaxError: invalid syntax
              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Sat Nov 09 2019 11:08:54.719 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 14
+  elem.vai()
+  ^
+IndentationError: unexpected indent
+'''},
