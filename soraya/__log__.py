@@ -67,3 +67,10 @@ NameError: name 'cenahomes' is not defined
     	txt.Elem= Texto (cenaHolmes,
 NameError: name 'txt' is not defined
 '''},
+{'date': 'Sat Nov 09 2019 11:39:16.463 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 14
+  cenaHolmes.vai()
+  ^
+IndentationError: unexpected indent
+'''},
