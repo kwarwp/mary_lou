@@ -3,7 +3,7 @@ from _spy.vitollino.main import Cena, Elemento, Texto
 cena11 ="https://i.imgur.com/K1Amaae.png" 
 elemento ="https://bit.ly/32y88Mk" 
  
-def Historia() 
+def Historia(): 
 
 	cenaHolmes = ( img = cena11)
 	 elem Elemento = (img = elemento)
