@@ -4,7 +4,7 @@ cena11 =  "https://i.imgur.com/vaTwNBR.png "
 elemento =  "https: //bit.ly/32y88Mk"
 
 def Historia  ():
-	cenaHolmes = Cena( img = cena11)
+	cenaHolmes = Cena(img = cena11)
 	elem = Elemento( img = elemento, 
                      tit= "Story" ,
                      style=dict(left=150, top=60,width=60, hight=200))
