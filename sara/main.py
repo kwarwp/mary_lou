@@ -9,8 +9,8 @@ def Historia():
                      tit="Story",
                      style=dict(left=150, top=60, width=60, hight=200))
 	elem.entra(cenaHolmes)
-    	txtElem = Texto (cenaHolmes,
+	txtElem = Texto (cenaHolmes,
             			"")
-    elem.vai = txtElem.vai            
-cenaHolmes.vai()
+	elem.vai = txtElem.vai            
+	cenaHolmes.vai()
 Historia()
