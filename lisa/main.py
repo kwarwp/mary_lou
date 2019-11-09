@@ -12,4 +12,5 @@ def Historia():
 	txtElem = Texto (cenaHolmes,
     			"Holmes gave an old newspaper")
       elem.vai = txtElem.vai
+      	cenaHolmes.vai()
 Historia()
