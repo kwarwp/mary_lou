@@ -8,7 +8,7 @@ def Historia():
 	elem = Elemento( img = elemento,
                      tit="Story",
                      style=dict(left=150, top=60, width=120, hight=200))
-	elem.entra(cenaHolmes,
+	elem.entra(cenaHolmes)
 	txElem = Texto (cenaHolmes,
     			"The diamond is on the floor. At the entrance of the house")
         elem.vai = txElem.vai
