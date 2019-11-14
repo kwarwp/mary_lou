@@ -1,3 +1,4 @@
+#autor: yuri alaminos de oliveira
 # mary_lou.kristen.main.py
 # kesha.rachel.main.py
 # https://addons.mozilla.org/pt-BR/firefox/addon/imgur-upload/
