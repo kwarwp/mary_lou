@@ -91,3 +91,10 @@ SyntaxError: invalid syntax
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Thu Nov 14 2019 19:13:37.571 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 22
+  elementofaustao = Elemento(img = faustao,
+                                                                                                                     ^
+SyntaxError: invalid syntax
+'''},
