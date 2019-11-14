@@ -29,6 +29,7 @@ def lavaArdente():
     textofaustao = Texto(cenaLava,
                       "Tá pegando fogo, bixo!")
     elementofaustao.vai = textofaustao.vai
+    
 def cicloagua():
     cenaAgua = Cena(img = ciencia)
 #CHAMA O ELEMENTO URSO E O TEXTO 
@@ -109,4 +110,4 @@ def cicloagua():
 
 
     cenaAgua.vai()
-    cicloagua()
+cicloagua()
