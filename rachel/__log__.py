@@ -77,3 +77,10 @@ SyntaxError: invalid syntax
                   ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Thu Nov 14 2019 19:12:20.303 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 21
+  def LavaArdente
+                  ^
+SyntaxError: invalid syntax
+'''},
