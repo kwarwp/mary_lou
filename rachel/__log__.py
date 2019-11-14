@@ -141,3 +141,10 @@ NameError: name 'lavaArdente' is not defined
     cenaVulcao = Cena(img = lavaArdente)
 NameError: name 'lavaArdente' is not defined
 '''},
+{'date': 'Thu Nov 14 2019 19:16:29.912 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 22
+  elementofaustao = Elemento(img = faustao,
+                                                                                                                     ^
+SyntaxError: invalid syntax
+'''},
