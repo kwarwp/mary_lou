@@ -1,4 +1,4 @@
-# mary_lou.alexa.main.py
+# dora
 from _spy.vitollino.main import Cena, Elemento, Texto, STYLE
 from _spy.vitollino.main import Elemento_ as Elemento
 #from browser import html
