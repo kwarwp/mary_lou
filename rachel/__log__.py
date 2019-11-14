@@ -209,3 +209,10 @@ NameError: name 'elementofaustao' is not defined
     elementofaustao.entra(cenaLava)
 NameError: name 'elementofaustao' is not defined
 '''},
+{'date': 'Thu Nov 14 2019 19:32:21.961 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 24
+  elementofaustao = Elemento(img = faustao,
+                                                                                                                                   ^
+SyntaxError: invalid syntax
+'''},
