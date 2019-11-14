@@ -1,4 +1,4 @@
-# mary_lou.sarah.main.py
+# vinicius
 # https://addons.mozilla.org/pt-BR/firefox/addon/imgur-upload/
 from _spy.vitollino.main import Cena, Elemento, Texto, STYLE
 from _spy.vitollino.main import Elemento_ as Elemento
