@@ -11,18 +11,24 @@ indios ="https://i.imgur.com/RMc3y2v.png"
 interrogav = "https://i.imgur.com/vHTik0T.png"
 interrogab = "https://i.imgur.com/waqbg8W.png"
 interrogap ="https://i.imgur.com/lnrSyCI.png"
+faustao = "https://i.imgur.com/jmhXTbm.png"
 
 terraMorta = "https://i.imgur.com/MVSeRMf.jpg"
 #lavaArdente = "https://i.imgur.com/PskfkEy.jpg"
 lavaArdente = "https://i.imgur.com/1PR5FzX.gif"
-faustao = "https://i.imgur.com/jmhXTbm.png"
 STYLE ["width"] = 1150
 STYLE ["height"] = "600px"
-def LavaArdente():
+
+def lavaArdente():
     cenaLava = Cena (img = lavaArdente)
+#CHAMA O ELEMENTO FAUSTAO E O TEXTO
     elementofaustao = Elemento(img = faustao,
-                    tit = " Tá pegando fogo, bixo!",
-                    style = dict(top= 420, left = 25, height= 100, width = 100, bottom= 100))
+                    tit = "Faustão"
+                    style = dict top= 420, left = 25, height= 100, width = 100, bottom= 100)
+                      elementofaustao.entra(cenaLava)
+    textofaustao = Texto(cenaLava,
+                      "Tá pegando fogo, bixo!")
+    elementofaustao.vai = textofaustao.vai
 def cicloagua():
     cenaAgua = Cena(img = ciencia)
 #CHAMA O ELEMENTO URSO E O TEXTO 
@@ -93,7 +99,7 @@ def cicloagua():
 
     #criar uma nova cena a esquerda
     cenaVulcao = Cena(img = lavaArdente)
-    cenaAgua.esquerda = cenaVulcao
+    cenaAgua.esquerda = cenaLava
     cenaVulcao.vai()
 
 
@@ -103,4 +109,4 @@ def cicloagua():
 
 
     cenaAgua.vai()
-cicloagua()
+    cicloagua()
