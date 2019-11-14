@@ -25,7 +25,7 @@ def lavaArdente():
     elementofaustao = Elemento(img = faustao,
                     tit = "Faustão",
                     style = dict,top= 420, left = 25, height= 100, width = 100, bottom= 100)
-                      elementofaustao.entra(cenaLava)
+    elementofaustao.entra(cenaLava)
     textofaustao = Texto(cenaLava,
                       "Tá pegando fogo, bixo!")
     elementofaustao.vai = textofaustao.vai
