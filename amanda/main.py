@@ -1,4 +1,4 @@
-# kesha.rachel.main.py
+# Matheus Lemos
 # https://addons.mozilla.org/pt-BR/firefox/addon/imgur-upload/
 from _spy.vitollino.main import Cena, Elemento, Texto, STYLE
 from _spy.vitollino.main import Elemento_ as Elemento
