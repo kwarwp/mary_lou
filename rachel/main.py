@@ -15,9 +15,14 @@ interrogap ="https://i.imgur.com/lnrSyCI.png"
 terraMorta = "https://i.imgur.com/MVSeRMf.jpg"
 #lavaArdente = "https://i.imgur.com/PskfkEy.jpg"
 lavaArdente = "https://i.imgur.com/1PR5FzX.gif"
+faustao = "https://i.imgur.com/jmhXTbm.png"
 STYLE ["width"] = 1150
 STYLE ["height"] = "600px"
-
+def LavaArdente():
+    cenaLava = Cena (img = lavaArdente)
+    elementofaustao = Elemento(img = faustao,
+                    tit = " Tá pegando fogo, bixo!",
+                    style = dict(top= 420, left = 25, height= 100, width = 100, bottom= 100))
 def cicloagua():
     cenaAgua = Cena(img = ciencia)
 #CHAMA O ELEMENTO URSO E O TEXTO 
