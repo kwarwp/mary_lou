@@ -230,3 +230,10 @@ SyntaxError: invalid syntax
                                                                                                                                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Thu Nov 14 2019 19:41:45.582 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 25
+  elementofaustao = Elemento(img = faustao,
+                                                                                                                                   ^
+SyntaxError: invalid syntax
+'''},
