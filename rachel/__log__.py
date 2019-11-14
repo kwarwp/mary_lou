@@ -42,3 +42,10 @@ NameError: name 'ciencia' is not defined
     elementoindio = Elemento(img = indio, 
 NameError: name 'indio' is not defined
 '''},
+{'date': 'Thu Nov 14 2019 19:10:50.252 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 21
+  def lavaArdente
+                  ^
+SyntaxError: invalid syntax
+'''},
