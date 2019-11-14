@@ -70,3 +70,10 @@ IndentationError: unexpected indent
                                                                                                                      ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Thu Nov 14 2019 19:11:55.870 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 21
+  def lavaArdente
+                  ^
+SyntaxError: invalid syntax
+'''},
