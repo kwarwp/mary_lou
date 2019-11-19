@@ -62,32 +62,32 @@ def cicloagua():
 
     #CHAMA O PONTO DE INTERROGAÇÃO VERMELHO
     elementopontov = Elemento(img = interrogav, 
-                     tit = "DUVIDA", 
+                     tit = "Frase 1", 
                      style = dict (top = 500, left = 530, height = 60, width = 55, bottom = 100))
     
     elementopontov.entra(cenaAgua)
     textopontov = Texto(cenaAgua,
-                      "EVAPORAÇÃO")
+                      "Tá")
     elementopontov.vai = textopontov.vai
     
     #CHAMA O PONTO DE INTERROGAÇÃO AZUL
     elementopontob = Elemento(img = interrogab, 
-                     tit = "DUVIDA", 
+                     tit = "Frase 2", 
                      style = dict (top = 220, left = 370, height = 60, width = 55, bottom = 100))
     
     elementopontob.entra(cenaAgua)
     textopontob = Texto(cenaAgua,
-                      "PRECIPITAÇÃO")
+                      "Xuvendo")
     elementopontob.vai = textopontob.vai
 
 #CHAMA O PONTO DE INTERROGAÇÃO PRETO
     elementopontop = Elemento(img = interrogap, 
-                     tit = "DUVIDA", 
+                     tit = "Frase 3", 
                      style = dict (top = 30, left = 800, height = 60, width = 55, bottom = 100))
     
     elementopontop.entra(cenaAgua)
     textopontop = Texto(cenaAgua,
-                      "CONDENSAÇÃO")
+                      "Meu povo!")
     elementopontop.vai = textopontop.vai
 
     #criar uma nova cena a direita
