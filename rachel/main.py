@@ -99,5 +99,5 @@ def cicloagua():
 
 
 
-
+    cenaVulcao.vai()
 cicloagua()
