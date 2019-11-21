@@ -90,7 +90,7 @@ def cicloagua():
 
     #criar uma nova cena a esquerda
     cenaVulcao = Cena(img = lavaArdente)
-    cenaAgua.esquerda = cenaLava
+    cenaAgua.esquerda = cenaVulcao
     cenaVulcao.vai()
 
 
