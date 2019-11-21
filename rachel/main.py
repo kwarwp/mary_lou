@@ -11,9 +11,9 @@ indios ="https://i.imgur.com/RMc3y2v.png"
 interrogav = "https://i.imgur.com/vHTik0T.png"
 interrogab = "https://i.imgur.com/waqbg8W.png"
 interrogap ="https://i.imgur.com/lnrSyCI.png"
-terraMorta = "https://i.imgur.com/MVSeRMf.jpg"
+#terraMorta = "https://i.imgur.com/MVSeRMf.jpg"
 #lavaArdente = "https://i.imgur.com/PskfkEy.jpg"
-lavaArdente = "https://www.infoescola.com/wp-content/uploads/2008/10/vulcao.jpg"
+terraMorta = "https://www.infoescola.com/wp-content/uploads/2008/10/vulcao.jpg"
 STYLE ["width"] = 1150
 STYLE ["height"] = "600px"
 
