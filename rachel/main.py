@@ -13,7 +13,7 @@ interrogab = "https://i.imgur.com/waqbg8W.png"
 interrogap ="https://i.imgur.com/lnrSyCI.png"
 terraMorta = "https://i.imgur.com/MVSeRMf.jpg"
 #lavaArdente = "https://i.imgur.com/PskfkEy.jpg"
-lavaArdente = "https://i.imgur.com/1PR5FzX.gif"
+lavaArdente = "https://ichef.bbci.co.uk/news/660/cpsprodpb/112BD/production/_104933307_volcano_getty_july18.jpg"
 STYLE ["width"] = 1150
 STYLE ["height"] = "600px"
 
