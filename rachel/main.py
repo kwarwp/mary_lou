@@ -18,7 +18,7 @@ STYLE ["width"] = 1150
 STYLE ["height"] = "600px"
 
 def lavaArdente():
-    cenaLava = Cena (img = lavaArdente)
+    cenaVulcao = Cena (img = lavaArdente)
     
 def cicloagua():
     cenaAgua = Cena(img = ciencia)
