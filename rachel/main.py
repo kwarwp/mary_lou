@@ -19,6 +19,15 @@ STYLE ["height"] = "600px"
 
 def lavaardente():
     cenaVulcao = Cena (img = lavaArdente)
+    #CHAMA O ELEMENTO FAUSTAO E O TEXTO 
+    elementofaustao = Elemento(img = faustao, 
+                     tit = "Faustão", 
+                     style = dict (top = 400, left = 190, height = 100, width = 200))
+    elementofaustao.entra(cenaVulcao)
+    textofaustao = Texto(cenaVulcao,
+                      "Tá pegando fogo bixo")
+    elementofaustao.vai = textofaustao.vai
+    
 lavaardente()
     
 def cicloagua():
@@ -32,15 +41,6 @@ def cicloagua():
     textourso = Texto(cenaAgua,
                       "Ursinho Pooh")
     elementourso.vai = textourso.vai
-    
-#CHAMA O ELEMENTO INDIO E O TEXTO 
-    elementofaustao = Elemento(img = faustao, 
-                     tit = "Faustão", 
-                     style = dict (top = 400, left = 190, height = 100, width = 200))
-    elementofaustao.entra(cenaAgua)
-    textofaustao = Texto(cenaAgua,
-                      "Tá pegando fogo bixo")
-    elementofaustao.vai = textofaustao.vai
     
     #CHAMA O ELEMENTO INDIOS E O TEXTO 
     elementoindios = Elemento(img = indios, 
