@@ -6,7 +6,7 @@ from _spy.vitollino.main import Elemento_ as Elemento
 #from browser import html
 ciencia = "https://i.imgur.com/nX5rixb.gif"
 urso = "https://i.imgur.com/nyow6zY.png"
-indio ="https://i.imgur.com/jmhXTbm.png"
+faustao ="https://i.imgur.com/jmhXTbm.png"
 indios ="https://i.imgur.com/RMc3y2v.png"
 interrogav = "https://i.imgur.com/vHTik0T.png"
 interrogab = "https://i.imgur.com/waqbg8W.png"
@@ -33,13 +33,13 @@ def cicloagua():
     elementourso.vai = textourso.vai
     
 #CHAMA O ELEMENTO INDIO E O TEXTO 
-    elementoindio = Elemento(img = indio, 
-                     tit = "Indio", 
+    elementofaustao = Elemento(img = faustao, 
+                     tit = "Faustão", 
                      style = dict (top = 400, left = 190, height = 100, width = 200))
-    elementoindio.entra(cenaAgua)
-    textoindio = Texto(cenaAgua,
-                      "Indio Pele vermelha")
-    elementoindio.vai = textoindio.vai
+    elementofaustao.entra(cenaAgua)
+    textofaustao = Texto(cenaAgua,
+                      "Tá pegando fogo bixo")
+    elementofaustao.vai = textofaustao.vai
     
     #CHAMA O ELEMENTO INDIOS E O TEXTO 
     elementoindios = Elemento(img = indios, 
