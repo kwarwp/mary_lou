@@ -6,13 +6,11 @@ from _spy.vitollino.main import Elemento_ as Elemento
 #from browser import html
 ciencia = "https://i.imgur.com/nX5rixb.gif"
 urso = "https://i.imgur.com/nyow6zY.png"
-indio ="https://i.imgur.com/dTQvgkN.png"
+indio ="https://i.imgur.com/jmhXTbm.png"
 indios ="https://i.imgur.com/RMc3y2v.png"
 interrogav = "https://i.imgur.com/vHTik0T.png"
 interrogab = "https://i.imgur.com/waqbg8W.png"
 interrogap ="https://i.imgur.com/lnrSyCI.png"
-faustao = "https://i.imgur.com/jmhXTbm.png"
-
 terraMorta = "https://i.imgur.com/MVSeRMf.jpg"
 #lavaArdente = "https://i.imgur.com/PskfkEy.jpg"
 lavaArdente = "https://i.imgur.com/1PR5FzX.gif"
@@ -21,14 +19,6 @@ STYLE ["height"] = "600px"
 
 def lavaArdente():
     cenaLava = Cena (img = lavaArdente)
-#CHAMA O ELEMENTO FAUSTAO E O TEXTO
-    elementofaustao = Elemento(img = faustao,
-                    tit = "Faustão",
-                    style = dict,top= 420, left = 25, height= 100, width = 100, bottom= 100)
-    elementofaustao.entra(cenaLava)
-    textofaustao = Texto(cenaLava,
-                      "Tá pegando fogo, bixo!")
-    elementofaustao.vai = textofaustao.vai
     
 def cicloagua():
     cenaAgua = Cena(img = ciencia)
