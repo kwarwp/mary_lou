@@ -17,8 +17,9 @@ lavaArdente = "https://www.infoescola.com/wp-content/uploads/2008/10/vulcao.jpg"
 STYLE ["width"] = 1150
 STYLE ["height"] = "600px"
 
-def lavaArdente():
+def lavaardente():
     cenaVulcao = Cena (img = lavaArdente)
+lavaardente()
     
 def cicloagua():
     cenaAgua = Cena(img = ciencia)
