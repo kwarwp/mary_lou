@@ -211,3 +211,10 @@ TypeError: unsupported operand type(s) for //: 'str' and 'int'
     divesq.style.width = width // 3  # 100
 TypeError: unsupported operand type(s) for //: 'str' and 'int'
 '''},
+{'date': 'Sun Mar 10 2024 11:59:26.897 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  cenaHolmes.vai()
+  ^
+IndentationError: unexpected indent
+'''},
